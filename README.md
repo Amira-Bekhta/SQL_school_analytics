@@ -34,15 +34,15 @@ This allows testing various joins, aggregates, and subqueries easily.
 Below are screenshots of outputs of each task/query ⬇️
 
 ### 1️⃣ Students and Their Courses
-![Alt text](Screenshots\1.png)
+![Alt text](Screenshots/1.png)
 ### 2️⃣ Average Grade per Course
-![Alt text](Screenshots\2.png)
+![Alt text](Screenshots/2.png)
 ### 3️⃣ Teachers Earning Above Average
-![Alt text](Screenshots\3.png)
+![Alt text](Screenshots/3.png)
 ### 4️⃣ Students Taking More Than Two Courses
-![Alt text](Screenshots\4.png)
+![Alt text](Screenshots/4.png)
 ### 5️⃣ Youngest Student
-![Alt text](Screenshots\5.png)
+![Alt text](Screenshots/5.png)
 
 
 ## 🧱 Tools used
